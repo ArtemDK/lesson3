@@ -39,5 +39,5 @@ ___
 >> на [HABR.com](https://habr.com/ru/company/ruvds/blog/599929/ "переход на внешний источник")
 
 ## 3. Рапота с репозиторием на GitHub ##
-**Перед началом работы свяжите аккаунт на Github с Visuak Studio Code (VSC)** 
+**Перед началом работы свяжите аккаунт на Github с Visual Studio Code (VSC)** 
 
